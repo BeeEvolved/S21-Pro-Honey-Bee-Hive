@@ -1,6 +1,7 @@
 # 🐝 S21 Pro Honey Bee Hive — Open-Source Bitcoin Mining E-Waste Reimagined
+![S21 Pro Honey Bee Hive Main Image](https://github.com/BeeEvolved/S21-Pro-Honey-Bee-Hive/blob/main/complete.JPG)
 
-**Open-source Bitcoin hardware can be a dirty and wasteful endeavor. Let’s clean it up.**
+**Open-source Bitcoin hardware can be a wasteful endeavor. Let’s clean it up.**
 
 ---
 
